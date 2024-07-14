@@ -10,6 +10,6 @@ Subtraction
 Multiplication
 
 Comparison (determines which number is grea
-Conversion to floating point representation
+Conversion to floating point 
 Absolute value
 The program is written in an object-oriented style and uses exception handling to recover from bad inputs.

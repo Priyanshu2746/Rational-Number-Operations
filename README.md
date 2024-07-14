@@ -8,7 +8,7 @@ A rational number is a number in the form of a/b, where a and b are integers and
 Addition
 Subtraction
 Multiplication
-Division
+
 Comparison (determines which number is grea
 Conversion to floating point representation
 Absolute value

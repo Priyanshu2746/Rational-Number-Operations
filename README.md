@@ -11,5 +11,5 @@ Multiplication
 
 Comparison (determines which number 
 Conversion to floati
-Absolute value
+
 The program is written in an object-oriented style and uses exception handling to recover from bad inputs.

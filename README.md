@@ -9,7 +9,7 @@ Addition
 Subtraction
 Multiplication
 
-Comparison (determines which number 
+Comparison (determines
 Conversion to floati
 
 The program is written in an  style and uses exception handling to recover from bad inputs.

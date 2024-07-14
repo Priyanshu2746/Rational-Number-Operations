@@ -10,6 +10,5 @@ Subtraction
 Multiplication
 
 Comparison 
-Conversion to floati
-
+Conversion to f
 The program is written in an  style and uses exception handling to 

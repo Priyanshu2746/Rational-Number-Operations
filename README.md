@@ -9,7 +9,7 @@ Addition
 Subtraction
 Multiplication
 Division
-Comparison (determines which number is greater
+Comparison (determines which number is grea
 Conversion to floating point representation
 Absolute value
 The program is written in an object-oriented style and uses exception handling to recover from bad inputs.
